@@ -1,2 +1,2 @@
 # awsome-test
-A modest attemt
+A modest attempt
